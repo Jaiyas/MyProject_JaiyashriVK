@@ -1,0 +1,14 @@
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\bin\Debug\net8.0\C#Test1_Jaiyashri VK.exe
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\bin\Debug\net8.0\C#Test1_Jaiyashri VK.deps.json
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\bin\Debug\net8.0\C#Test1_Jaiyashri VK.runtimeconfig.json
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\bin\Debug\net8.0\C#Test1_Jaiyashri VK.dll
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\bin\Debug\net8.0\C#Test1_Jaiyashri VK.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\obj\Debug\net8.0\C#Test1_Jaiyashri VK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\obj\Debug\net8.0\C#Test1_Jaiyashri VK.AssemblyInfoInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\obj\Debug\net8.0\C#Test1_Jaiyashri VK.AssemblyInfo.cs
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\obj\Debug\net8.0\C#Test1_Jaiyashri VK.csproj.CoreCompileInputs.cache
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\obj\Debug\net8.0\C#Test1_Jaiyashri VK.dll
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\obj\Debug\net8.0\refint\C#Test1_Jaiyashri VK.dll
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\obj\Debug\net8.0\C#Test1_Jaiyashri VK.pdb
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\obj\Debug\net8.0\C#Test1_Jaiyashri VK.genruntimeconfig.cache
+C:\Users\JAISHRI.VK\Documents\BATCH7 EXAM_JAIYASHRI VK\C#Test1_Jaiyashri VK\C#Test1_Jaiyashri VK\obj\Debug\net8.0\ref\C#Test1_Jaiyashri VK.dll
